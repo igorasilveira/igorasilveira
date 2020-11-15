@@ -1,7 +1,7 @@
 [![Header](/header.png "Header")](https://igorsilveira.me/)
 
 ## ✍️ Blog and Writing
-Apart from coding as a full-time job and being active on Twitter, I write to and maintain [dailydev.io](https://dailydev.io). You can also find my articles on [Medium](https://medium.com/@igorasilveira), [DEV.to](https://dev.to/igorasilveira) and [Hashnode](https://igorasilveira.hashnode.de
+Apart from coding as a full-time job and being active on Twitter, I write to and maintain [dailydev.io](https://dailydev.io). You can also find my articles on [Medium](https://medium.com/@igorasilveira), [DEV.to](https://dev.to/igorasilveira) and [Hashnode](https://igorasilveira.hashnode.dev).
 
 <!-- Actual text -->
 
