@@ -24,17 +24,18 @@ Apart from coding as a full-time job and being active on Twitter, I write to and
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+
+You can find me on [![Twitter][1.2]][1].
+
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/igorasilveira
-[2]: https://www.linkedin.com/in/igor-silveira-29210a133/
 
 
 > This README was inspired by [Martin Heinz's post](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7).
