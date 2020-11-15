@@ -35,6 +35,6 @@ You can find me on [![Twitter][1.2]][1].
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorasilveira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Igor's GitHub Stats" />
 </a>
 
-
+<p>&nbsp;</p>
 
 > This README was inspired by [Martin Heinz's post](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7).
