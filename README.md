@@ -9,7 +9,7 @@ Apart from coding as a full-time job and being active on Twitter, I write to and
 ## 📈 GitHub Stats
 
 <a href="https://github.com/igorasilveira/igorasilveira">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorasilveira&hide=objective-c,plpgsql,java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorasilveira&hide=objective-c,plpgsql&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/igorasilveira/igorasilveira">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorasilveira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Igor's GitHub Stats" />
