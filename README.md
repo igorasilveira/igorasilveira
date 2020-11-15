@@ -1,7 +1,20 @@
 [![Header](/header.png "Header")](https://igorsilveira.me/)
 
 ## ✍️ Blog and Writing
-Apart from coding as a full-time job and being active on Twitter, I write to and maintain [dailydev.io](https://dailydev.io). You can also find my articles on [Medium](https://medium.com/@igorasilveira), [DEV.to](https://dev.to/igorasilveira) and [Hashnode](https://igorasilveira.hashnode.dev/).
+Apart from coding as a full-time job and being active on Twitter, I write to and maintain [dailydev.io](https://dailydev.io). You can also find my articles on [Medium](https://medium.com/@igorasilveira), [DEV.to](https://dev.to/igorasilveira) and [Hashnode](https://igorasilveira.hashnode.de
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1].
+
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/igorasilveira
 
 ## 💻 Tech & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTM3IiBoZWlnaHQ9IjE2NCIgdmlld0JveD0iMCAwIDEzNyAxNjQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0zNC4yNTExIDE2MC45MjVDMzAuOTU5OSAxNTguNzY1IDI4LjAzNzQgMTU2LjEyMSAyNS41OTUgMTUzLjA2NkMyMi45Mjk5IDE0OS45MDMgMjAuNDU5NyAxNDYuNTc1IDE4LjE5MTMgMTQzLjEzMUMxMi44NjEyIDEzNS40NzcgOC42OTMxOSAxMjcuMTA3IDUuODA1NDggMTE4LjI4NUMyLjMyNjMxIDEwOC4wMjEgMC42MzU0MzcgOTguMTk0OCAwLjYzNTQzNyA4OC41ODAzQzAuNjM1NDM3IDc3Ljg1MiAzLjAwMTI3IDY4LjQ5MDMgNy42MDc2OSA2MC42MzJDMTEuMDE3MyA1NC40ODIgMTYuMDk2OSA0OS4zMzY1IDIyLjIyMDIgNDUuNzIxN0MyOC4xMzQ4IDQyLjEgMzUuMDIzNSA0MC4xMTgzIDQxLjk4MTkgMzkuOTgxN0M0NC40MTczIDM5Ljk4MTcgNDcuMDYxNCA0MC4zMjMzIDQ5Ljg0NDggNDEuMDA2N0M1MS44NjI3IDQxLjU1MzMgNTQuMjk4MSA0Mi40NDE3IDU3LjI5MDIgNDMuNTM1QzYxLjExNzMgNDQuOTcgNjMuMjA0OCA0NS44NTgzIDYzLjkwMDYgNDYuMDYzM0M2Ni4xMjczIDQ2Ljg4MzMgNjguMDA2IDQ3LjIyNSA2OS40NjczIDQ3LjIyNUM3MC41ODA2IDQ3LjIyNSA3Mi4xODEgNDYuODgzMyA3My45NTU0IDQ2LjMzNjdDNzQuOTY0MyA0NS45OTUgNzYuODc3OSA0NS4zOCA3OS41OTE2IDQ0LjIxODNDODIuMjc3NiA0My4yNjE3IDg0LjQwNjggNDIuNDQxNyA4Ni4wOTc3IDQxLjgyNjdDODguNjcyMyA0MS4wNzUgOTEuMTYzMyA0MC4zOTE3IDkzLjQwMzkgNDAuMDVDOTYuMTE3NyAzOS42NCA5OC44MTA1IDM5LjUwMzMgMTAxLjM5MiAzOS43MDgzQzEwNi4zMzMgNDAuMDUgMTEwLjg1NSA0MS4wNzUgMTE0Ljg5MSA0Mi41NzgzQzEyMS45ODkgNDUuMzggMTI3LjcxNSA0OS43NTMzIDEzMS45ODggNTUuOTcxN0MxMzAuMTc5IDU3LjA2NSAxMjguNTA5IDU4LjMzNiAxMjYuOTQzIDU5LjczQzEyMy41NTQgNjIuNjY4MyAxMjAuNjgxIDY2LjE1MzMgMTE4LjM4NCA3MC4wMTQyQzExNS4zOTIgNzUuMjc1OCAxMTMuODYxIDgxLjIyMDggMTEzLjkwMyA4Ny4yMzQyQzExNC4wMDggOTQuNjM0NyAxMTUuOTIxIDEwMS4xNCAxMTkuNzQ4IDEwNi43NzdDMTIyLjQ0MSAxMTAuODc3IDEyNi4wMzkgMTE0LjM5IDEzMC40MjIgMTE3LjI3M0MxMzIuNTc5IDExOC43MDggMTM0LjQ3MiAxMTkuNjk5IDEzNi4yNjcgMTIwLjM0OEMxMzUuNDMyIDEyMi45MTEgMTM0LjUxNCAxMjUuNDA1IDEzMy40NDkgMTI3Ljg2NUMxMzEuMDM1IDEzMy4zOCAxMjguMTYxIDEzOC42NjIgMTI0Ljc1MSAxNDMuNjVDMTIxLjc0NSAxNDcuOTU1IDExOS4zNzkgMTUxLjE2NyAxMTcuNTg0IDE1My4yODVDMTE0Ljc4NyAxNTYuNTY1IDExMi4wODcgMTU5LjAyNSAxMDkuMzczIDE2MC43ODFDMTA2LjM4MSAxNjIuNzI5IDEwMi44NjcgMTYzLjc2MSA5OS4yNjk4IDE2My43NjFDOTYuODM0NCAxNjMuODYzIDk0LjM5OSAxNjMuNTU2IDkyLjA3NDkgMTYyLjg5M0M5MC4wNTcgMTYyLjI0NCA4OC4wNjY5IDE2MS41MTIgODYuMTE4NiAxNjAuNjg2Qzg0LjA3OTggMTU5Ljc3IDgxLjk3MTQgMTU4Ljk5MSA3OS44MjEzIDE1OC4zNjJDNzcuMTc3MSAxNTcuNjc5IDc0LjQ2MzMgMTU3LjM1MSA3MS43MjE4IDE1Ny4zNThDNjguOTM4NCAxNTcuMzU4IDY2LjIyNDcgMTU3LjY5OSA2My42NTAxIDE1OC4zNDlDNjEuNDkzIDE1OC45NSA1OS40MDU1IDE1OS42ODggNTcuMzM4OSAxNjAuNTY5QzU0LjQxNjQgMTYxLjc2NSA1Mi41MDI5IDE2Mi41NTEgNTEuMzg5NSAxNjIuODkzQzQ5LjEzNSAxNjMuNTQ5IDQ2LjgyNDggMTYzLjk0NSA0NC41MDA4IDE2NC4wODlDNDAuODgyNCAxNjQuMDg5IDM3LjUxNDYgMTYzLjA2NCAzNC4xNjA3IDE2MS4wMTRMMzQuMjUxMSAxNjAuOTI1Wk04MS45NDM2IDM0Ljc4MTVDNzcuMjExOSAzNy4xMDQ4IDcyLjcxNjggMzguMDg4OCA2OC4yMTQ4IDM3Ljc2MDhDNjcuNTE4OSAzMy4zNDY1IDY4LjIxNDggMjguODA5MiA3MC4wOTM1IDIzLjg0MTNDNzEuNzYzNSAxOS42MDQ3IDczLjk5MDIgMTUuNzc4IDc3LjA1MTggMTIuMzYxM0M4MC4yNTI3IDguODA4IDg0LjA3OTggNS44Njk2NiA4OC4zOTM5IDMuNzUxMzNDOTIuOTg2NCAxLjQyOCA5Ny4zNzAyIDAuMTk3OTk2IDEwMS41NDUgLTAuMDA3MDAzNzhDMTAyLjEwMiA0LjYzOTY2IDEwMS41NDUgOS4yMTggOTkuODA1NiAxNC4xMzhDOTguMjE5MSAxOC41MTEzIDk1Ljg1MzMgMjIuNTQzIDkyLjg0NzMgMjYuMTY0N0M4OS44MjA0IDI5LjcxOCA4Ni4wNjI5IDMyLjY1NjMgODEuODExMyAzNC43NzQ3TDgxLjk0MzYgMzQuNzgxNVoiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=white&color=2bbc8a)
@@ -22,20 +35,6 @@ Apart from coding as a full-time job and being active on Twitter, I write to and
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorasilveira&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Igor's GitHub Stats" />
 </a>
 
-<!-- Actual text -->
-
-
-
-You can find me on [![Twitter][1.2]][1].
-
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/igorasilveira
 
 
 > This README was inspired by [Martin Heinz's post](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7).
